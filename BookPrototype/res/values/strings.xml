@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">BookPrototype</string>
+    <string name="speakbutton">Speak Out</string>
+    <string name="English">English</string>
+    <string name="French">French</string>
+    <string name="German">German</string>
+    <string name="select_language">select speaking language</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/file"
+        android:title="@string/select_language">
+
+        <!-- "file" submenu -->
+        <menu>
+            <item
+                android:id="@+id/English"
+                android:title="@string/English"/>
+            <item
+                android:id="@+id/French"
+                android:title="@string/French"/>
+            <item
+                android:id="@+id/German"
+                android:title="@string/German"/>
+        </menu>
+    </item>
+
+</menu>
